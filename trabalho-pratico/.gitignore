@@ -1,0 +1,21 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore the Makefile
+!Makefile
+
+# Unignore all dirs
+!*/
+
+# Ignore default executable
+a.out
+*.o
+*.exe
+*users*.csv
+*drivers*.csv
+*rides*.csv
+Resultados/
+input/input.txt
